@@ -37,6 +37,8 @@ public class SalesOrder extends Order{
         return newOrder;
     }
 
+
+
     @Override
     public String toString() {
         return super.toString()+"产品名称："+this.productName+"\n数量："+this.count+"\n单价："+unitPrice+"\n";

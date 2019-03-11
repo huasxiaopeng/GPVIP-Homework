@@ -36,6 +36,8 @@ public class PurchaseOrder  extends  Order{
         this.count=count;
     }
 
+
+
     public PurchaseOrder(Order order,String productName,int count) {
         super(order.getId(), order.getCreateTime(), order.getCreator(), "²É¹ºµ¥");
         this.productName=productName;
