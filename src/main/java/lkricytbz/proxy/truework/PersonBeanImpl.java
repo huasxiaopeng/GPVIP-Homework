@@ -1,0 +1,48 @@
+package lkricytbz.proxy.truework;
+
+/**
+ * @author lktbz
+ * @Title: PersonBeanImpl
+ * @Description: TODO
+ * @date 2019/3/12
+ */
+public class PersonBeanImpl implements PersonBean {
+    String name;
+    String gender;
+    String interests;
+    int rating; //当前的评价分数
+    int ratingCount = 0;
+    public String getName() {
+        return name;
+    }
+
+    public String getGender() {
+        return gender;
+    }
+
+    public String getInterests() {
+        return interests;
+    }
+
+    public int getHotOrNotRating() {
+        if (ratingCount == 0) return 0;
+        return (rating/ratingCount);
+    }
+
+    public void setName(String name) {
+        this.name=name;
+    }
+
+    public void setGender(String name) {
+        this.gender=name;
+    }
+
+    public void setInterests(String interests) {
+     this.interests=interests;
+    }
+
+    public void setHotOrNotRating(int rating) {
+        this.rating+=rating;
+        ratingCount++;
+    }
+}
