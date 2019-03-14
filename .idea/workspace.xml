@@ -1,134 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17a0e1a3-c1eb-4a33-ba8e-0c5e429a4281" name="Default Changelist" comment="原型模式克隆模式">
+    <list default="true" id="17a0e1a3-c1eb-4a33-ba8e-0c5e429a4281" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/com.xiao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.xiao/src/main/java/com/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com.xiao/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/EarlyPunish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/IPunish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/LatePunish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/NUseStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/PunishFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/PunishTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/SleepPunish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/spring 委派模式关系图.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/OrderMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/OrderMgmt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/PrototypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/PrototypeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/PurchaseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/PurchaseOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/SalesOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/SalesOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lkricytbz/factory/bean/BeautifulGirls.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lkricytbz/factory/bean/BeautifulGirls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lkricytbz/factory/bean/Girls.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lkricytbz/factory/bean/Girls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lkricytbz/factory/bean/WomanGirls.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lkricytbz/factory/bean/WomanGirls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lkricytbz/factory/secondfactory/IBeatifulGirls.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lkricytbz/factory/secondfactory/IBeatifulGirls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lkricytbz/factory/secondfactory/IGirls.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lkricytbz/factory/secondfactory/IGirls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lkricytbz/factory/secondfactory/IWomanGirls.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lkricytbz/factory/secondfactory/IWomanGirls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lkricytbz/factory/secondfactory/TestGirls.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lkricytbz/factory/secondfactory/TestGirls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lkricytbz/factory/simplefactory/GirlsFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lkricytbz/factory/simplefactory/GirlsFactory.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/com.xiao/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1126268319">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="36" />
-          <entry key="readme" value="4" />
-          <entry key="xml" value="1" />
+          <entry key="java" value="77" />
+          <entry key="jpg" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="readme" value="8" />
+          <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="36" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="XML" value="1" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="77" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
           <entry key="ft" value="8" />
-          <entry key="java" value="1340" />
-          <entry key="readme" value="252" />
-          <entry key="txt" value="16" />
-          <entry key="xml" value="24" />
+          <entry key="java" value="2795" />
+          <entry key="properties" value="10" />
+          <entry key="readme" value="283" />
+          <entry key="txt" value="26" />
+          <entry key="xml" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1340" />
-          <entry key="PLAIN_TEXT" value="269" />
+          <entry key="JAVA" value="2795" />
+          <entry key="PLAIN_TEXT" value="310" />
+          <entry key="Properties" value="10" />
           <entry key="VTL" value="8" />
-          <entry key="XML" value="24" />
+          <entry key="XML" value="85" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/prototype/Order.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/NUseStrategy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="315">
+              <caret line="28" column="27" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/EarlyPunish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding>
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/PunishFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/prototype/OrderMgmt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/prototype/PrototypeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/prototype/PurchaseOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/prototype/readme">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/prototype/SalesOrder.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/PunishTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="116">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/IPunish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/LatePunish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#212#213#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/SleepPunish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -138,8 +172,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -162,18 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/factory/bean/Girls.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/factory/bean/BeautifulGirls.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/factory/simplefactory/GirlsFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/factory/bean/WomanGirls.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/factory/secondfactory/IGirls.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/factory/secondfactory/IBeatifulGirls.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/factory/secondfactory/IWomanGirls.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/factory/secondfactory/TestGirls.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/factory/absfactory/IYagaoFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/factory/absfactory/ImianFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/factory/absfactory/ItiaoliaoFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/factory/absfactory/IzhitongFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/lkricytbz/factory/absfactory/ITongmianFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/lkricytbz/factory/absfactory/KangShiFuMian.java" />
         <option value="$PROJECT_DIR$/src/main/java/lkricytbz/factory/absfactory/KangShiFuTiaoLiao.java" />
@@ -190,13 +212,41 @@
         <option value="$PROJECT_DIR$/src/main/java/lkricytbz/singleton/StaticInnerSerializableSingleton07.java" />
         <option value="$PROJECT_DIR$/src/main/java/lkricytbz/singleton/readme" />
         <option value="$PROJECT_DIR$/src/main/java/lkricytbz/singleton/Outer.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/Order.java" />
         <option value="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/OrderMgmt.java" />
         <option value="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/PrototypeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/PurchaseOrder.java" />
         <option value="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/readme" />
         <option value="$PROJECT_DIR$/src/main/java/lkricytbz/prototype/SalesOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/proxy/jdk/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/proxy/jdk/LittleHua.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/proxy/jdk/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/proxy/jdk/LittleBaiBeiTai.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/proxy/cglib/CglibBeiTaiXiaoBai.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/proxy/cglib/CglibProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/proxy/cglib/CgTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/proxy/readme" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/proxy/truework/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/proxy/truework/PersonBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/proxy/truework/PersonBeanImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/proxy/truework/OwnerInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/proxy/truework/NonOwnerInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/proxy/truework/Test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/ConnectionCountHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/Server.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/NettyserverApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/NettyclientApplication.java" />
+        <option value="$PROJECT_DIR$/com.xiao/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/com.xiao/src/main/java/com/NettyclientApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/NUseStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/PunishTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/IPunish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/EarlyPunish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/LatePunish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/SleepPunish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/PunishFactory.java" />
       </list>
     </option>
   </component>
@@ -233,7 +283,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
     <option name="y" value="-4" />
     <option name="width" value="1936" />
@@ -242,12 +292,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,7 +339,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lkricytbz" type="462c0819:PsiDirectoryNode" />
-              <item name="prototype" type="462c0819:PsiDirectoryNode" />
+              <item name="degelateandstrategy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -297,16 +348,29 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552274709464" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552537297413" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GPHomeworkVIP\src\main\java\lkricytbz\degelateandstrategy" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lkricytbz.degelateandstrategy" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\GPHomeworkVIP\src\main\java\lkricytbz\singleton" />
@@ -324,13 +388,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrototypeTest">
-    <configuration name="Outer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lkricytbz.singleton.Outer" />
+  <component name="RunManager" selected="Application.PunishTest">
+    <configuration name="NUseStrategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lkricytbz.degelateandstrategy.NUseStrategy" />
       <module name="GPHomeworkVIP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lkricytbz.singleton.*" />
+          <option name="PATTERN" value="lkricytbz.degelateandstrategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,12 +402,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrototypeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lkricytbz.prototype.PrototypeTest" />
+    <configuration name="PunishTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lkricytbz.degelateandstrategy.PunishTest" />
       <module name="GPHomeworkVIP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lkricytbz.prototype.*" />
+          <option name="PATTERN" value="lkricytbz.degelateandstrategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,29 +415,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGirls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lkricytbz.factory.secondfactory.TestGirls" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lkricytbz.proxy.truework.Test" />
       <module name="GPHomeworkVIP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lkricytbz.factory.secondfactory.*" />
+          <option name="PATTERN" value="lkricytbz.proxy.truework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyclientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="comxiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.NettyclientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="GPHomeworkVIP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lkricytbz.degelateandstrategy.NettyserverApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestGirls" />
-      <item itemvalue="Application.Outer" />
-      <item itemvalue="Application.PrototypeTest" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Spring Boot.NettyserverApplication" />
+      <item itemvalue="Spring Boot.NettyclientApplication" />
+      <item itemvalue="Application.NUseStrategy" />
+      <item itemvalue="Application.PunishTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrototypeTest" />
-        <item itemvalue="Application.Outer" />
-        <item itemvalue="Application.TestGirls" />
+        <item itemvalue="Application.PunishTest" />
+        <item itemvalue="Application.NUseStrategy" />
+        <item itemvalue="Spring Boot.NettyclientApplication" />
+        <item itemvalue="Spring Boot.NettyserverApplication" />
+        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +485,11 @@
       <workItem from="1552143856874" duration="390000" />
       <workItem from="1552181661541" duration="3895000" />
       <workItem from="1552205207080" duration="1851000" />
-      <workItem from="1552273195815" duration="1588000" />
+      <workItem from="1552273195815" duration="2538000" />
+      <workItem from="1552358461644" duration="6271000" />
+      <workItem from="1552397174485" duration="17000" />
+      <workItem from="1552528208845" duration="2347000" />
+      <workItem from="1552535493129" duration="1886000" />
     </task>
     <task id="LOCAL-00001" summary="单例模式">
       <created>1552184808394</created>
@@ -414,36 +512,53 @@
       <option name="project" value="LOCAL" />
       <updated>1552274657949</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="原型模式add">
+      <created>1552274824669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552274824669</updated>
+    </task>
+    <task id="LOCAL-00005" summary="代理模式">
+      <created>1552363506779</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552363506779</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11221000" />
+    <option name="totallyTimeSpent" value="22692000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="1048" extended-state="6" />
+    <frame x="-4" y="-4" width="1936" height="1056" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19426751" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36243093" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37057522" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.13384956" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32962137" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32887402" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32743362" />
       <window_info anchor="bottom" id="Run with VisualVM" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.41248608" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.78097343" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="13" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.32964602" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -454,6 +569,7 @@
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,94 +607,25 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="单例模式" />
     <MESSAGE value="原型模式克隆模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="原型模式克隆模式" />
+    <MESSAGE value="原型模式add" />
+    <MESSAGE value="代理模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="代理模式" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/PunishFactory.java</url>
+          <line>26</line>
+          <properties class="lkricytbz.degelateandstrategy.PunishFactory" method="get">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/factory/simplefactory/GirlsFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/factory/bean/BeautifulGirls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/factory/bean/Girls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/factory/bean/WomanGirls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/factory/secondfactory/IBeatifulGirls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/factory/secondfactory/IWomanGirls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/factory/secondfactory/IGirls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/factory/absfactory/IYagaoFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/factory/secondfactory/TestGirls.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/factory/absfactory/ITongmianFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/factory/absfactory/KangShiFuMian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/factory/absfactory/KangShiFuTiaoLiao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/factory/absfactory/KangShiFuZhiTong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/factory/absfactory/KangShiFuTongMian.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -677,51 +724,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/prototype/Order.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
+        <state relative-caret-position="352">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/prototype/OrderMgmt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
+        <state relative-caret-position="1120">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/prototype/PrototypeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/prototype/PurchaseOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="352">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -739,12 +759,327 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/prototype/PurchaseOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk/jdk1.8.0_31/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="411" column="22" selection-start-line="411" selection-start-column="12" selection-end-line="411" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/proxy/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="1" column="32" lean-forward="true" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/proxy/jdk/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/proxy/jdk/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/proxy/jdk/LittleHua.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/proxy/truework/OwnerInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/proxy/truework/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/proxy/truework/PersonBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/proxy/truework/PersonBeanImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/proxy/truework/NonOwnerInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/proxy/jdk/LittleBaiBeiTai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/proxy/cglib/CglibBeiTaiXiaoBai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/proxy/cglib/CglibProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/proxy/cglib/CgTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/proxy/truework/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/ConnectionCountHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.xiao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.xiao/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/NettyserverApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.xiao/src/main/java/com/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="33" column="75" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="25" column="56" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com.xiao/src/main/java/com/NettyclientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/spring 委派模式关系图.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/EarlyPunish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/SleepPunish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/NUseStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/IPunish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/PunishFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/LatePunish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lkricytbz/degelateandstrategy/PunishTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.5.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>comxiao</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:2.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
